@@ -62,9 +62,9 @@ Remember the client interface is not mandatory, but a bonus. It will be just cle
 
     As an example, a mockup of two simple pages for this app:
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf2c79d7-65a8-4b8c-b210-633877fd63cb/login-simple(2).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf2c79d7-65a8-4b8c-b210-633877fd63cb/login-simple(2).png)
+    ![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf2c79d7-65a8-4b8c-b210-633877fd63cb/login-simple(2).png)
 
-[https://lh3.googleusercontent.com/qd6MsDgorWSWWYEVYPV2l5zUL__vAg8nHLCDN-m3tGpTRWcJ00_gXsPptNMki85yMHim0hq2x9O5Ov94-eLiJoGc7w0SooGUQqEC8z6GJW3dtMvEU_zr75DT3x-dzHcHKcK5mN0q](https://lh3.googleusercontent.com/qd6MsDgorWSWWYEVYPV2l5zUL__vAg8nHLCDN-m3tGpTRWcJ00_gXsPptNMki85yMHim0hq2x9O5Ov94-eLiJoGc7w0SooGUQqEC8z6GJW3dtMvEU_zr75DT3x-dzHcHKcK5mN0q)
+    ![alt text](https://lh3.googleusercontent.com/qd6MsDgorWSWWYEVYPV2l5zUL__vAg8nHLCDN-m3tGpTRWcJ00_gXsPptNMki85yMHim0hq2x9O5Ov94-eLiJoGc7w0SooGUQqEC8z6GJW3dtMvEU_zr75DT3x-dzHcHKcK5mN0q)
 
 ## How to deliver the test
 
